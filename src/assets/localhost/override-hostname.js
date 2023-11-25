@@ -1,0 +1,1 @@
+window.overrideHostname = 'client1.myapp.com';
